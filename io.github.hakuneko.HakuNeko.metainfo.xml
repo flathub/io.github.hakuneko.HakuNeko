@@ -19,18 +19,23 @@
 	</description>
 	<screenshots>
    	 <screenshot type="default">
+		<caption>Preview manga pages</caption>
       <image>https://raw.githubusercontent.com/manga-download/hakuneko/master/assets/screenshot-pages.png</image>
     </screenshot>
     <screenshot>
+		<caption>Preview anime video</caption>
       <image>https://raw.githubusercontent.com/manga-download/hakuneko/master/assets/screenshot-video.png</image>
     </screenshot>
 	<screenshot>
+		<caption>Read manga</caption>
       <image>https://raw.githubusercontent.com/manga-download/hakuneko/master/assets/screenshot-reader.png</image>
     </screenshot>
 	<screenshot>
+		<caption>Database of Websites</caption>
       <image>https://raw.githubusercontent.com/manga-download/hakuneko/master/assets/screenshot-websites.png</image>
     </screenshot>
 	<screenshot>
+		<caption>About HakuNeko</caption>
       <image>https://raw.githubusercontent.com/manga-download/hakuneko/master/assets/screenshot-settings.png</image>
     </screenshot>
   	</screenshots>
